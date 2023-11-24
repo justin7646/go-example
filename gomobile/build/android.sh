@@ -1,0 +1,1 @@
+gomobile bind -target android -ldflags "-w -s" -o gomobile/lib/android/example.aar ./gomobile/sdk
